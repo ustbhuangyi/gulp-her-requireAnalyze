@@ -1,0 +1,32 @@
+{
+  "name": "gulp-her-requireAnalyze",
+  "version": "0.0.1",
+  "description": "analyze [require(xxx)]、[require.defer([xxx])] and [require.async([xxx])] in js files",
+  "author": {
+    "name": "huangyi",
+    "email": "ustbhuangyi@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ustbhuangyi/gulp-her-requireAnalyze/issues"
+  },
+  "engines": {
+    "node": ">=0.9"
+  },
+  "homepage": "https://github.com/ustbhuangyi/gulp-her-requireAnalyze/",
+  "keywords": [
+    "gulpplugin",
+    "her",
+    "require",
+    "analyze"
+  ],
+  "licenses": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ustbhuangyi/gulp-her-requireAnalyze.git"
+  },
+  "dependencies": {
+    "gulp-util": ">=3.0.0 <4.0.0-0",
+    "through2": ">=0.6.1 <1.0.0-0"
+  }
+}
