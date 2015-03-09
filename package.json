@@ -1,5 +1,5 @@
 {
-  "name": "gulp-her-requireAnalyze",
+  "name": "gulp-her-requireanalyze",
   "version": "0.0.1",
   "description": "analyze [require(xxx)]、[require.defer([xxx])] and [require.async([xxx])] in js files",
   "author": {
